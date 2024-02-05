@@ -10,3 +10,9 @@ Place this inside a new TamperMonkey, GreaseMonkey or UserScript script, go to [
 ## Benchmark
 
 Over 1,000 solves a second!
+
+## Demo
+
+*(Warning: lots of flashing lights!)*
+
+![WOAH!!!](https://github.com/uimaxbai/colorguess-solver/blob/main/demo.gif?raw=true)
