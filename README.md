@@ -3,7 +3,9 @@ A tampermonkey script that solves colorguess.
 
 ## Use
 
-Place this inside a new TamperMonkey, GreaseMonkey or UserScript script and enjoy.
+Place this inside a new TamperMonkey, GreaseMonkey or UserScript script, go to [here](https://werdl.github.io/colorguess/), and enjoy the colour show.
+
+*(Warning: lots of flashing lights!)*
 
 ## Benchmark
 
